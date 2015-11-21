@@ -24,7 +24,7 @@ You can use this plugin using Vim package manager `NeoBundle`.
 
 Write the following line in .vimrc
 
-	NeoBundle 'Shougo/unite.vim
+	NeoBundle 'g-yanagi/jsm-vim'
 	
 And Execute `NeoBundleInstall` on Vim command line.
 
